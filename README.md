@@ -18,4 +18,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/anujj39861/LeetCode/tree/master/0217-contains-duplicate) |
+## String
+|  |
+| ------- |
+| [0520-detect-capital](https://github.com/anujj39861/LeetCode/tree/master/0520-detect-capital) |
 <!---LeetCode Topics End-->
