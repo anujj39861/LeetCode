@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/anujj39861/LeetCode/tree/master/0014-longest-common-prefix) |
 | [0027-remove-element](https://github.com/anujj39861/LeetCode/tree/master/0027-remove-element) |
 | [0036-valid-sudoku](https://github.com/anujj39861/LeetCode/tree/master/0036-valid-sudoku) |
+| [0041-first-missing-positive](https://github.com/anujj39861/LeetCode/tree/master/0041-first-missing-positive) |
 | [0049-group-anagrams](https://github.com/anujj39861/LeetCode/tree/master/0049-group-anagrams) |
 | [0057-insert-interval](https://github.com/anujj39861/LeetCode/tree/master/0057-insert-interval) |
 | [0075-sort-colors](https://github.com/anujj39861/LeetCode/tree/master/0075-sort-colors) |
@@ -32,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/anujj39861/LeetCode/tree/master/0001-two-sum) |
 | [0036-valid-sudoku](https://github.com/anujj39861/LeetCode/tree/master/0036-valid-sudoku) |
+| [0041-first-missing-positive](https://github.com/anujj39861/LeetCode/tree/master/0041-first-missing-positive) |
 | [0049-group-anagrams](https://github.com/anujj39861/LeetCode/tree/master/0049-group-anagrams) |
 | [0128-longest-consecutive-sequence](https://github.com/anujj39861/LeetCode/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/anujj39861/LeetCode/tree/master/0169-majority-element) |
