@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/anujj39861/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0705-design-hashset](https://github.com/anujj39861/LeetCode/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/anujj39861/LeetCode/tree/master/0706-design-hashmap) |
+| [0881-boats-to-save-people](https://github.com/anujj39861/LeetCode/tree/master/0881-boats-to-save-people) |
 | [0912-sort-an-array](https://github.com/anujj39861/LeetCode/tree/master/0912-sort-an-array) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/anujj39861/LeetCode/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1929-concatenation-of-array](https://github.com/anujj39861/LeetCode/tree/master/1929-concatenation-of-array) |
@@ -61,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/anujj39861/LeetCode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/anujj39861/LeetCode/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/anujj39861/LeetCode/tree/master/0347-top-k-frequent-elements) |
+| [0881-boats-to-save-people](https://github.com/anujj39861/LeetCode/tree/master/0881-boats-to-save-people) |
 | [0912-sort-an-array](https://github.com/anujj39861/LeetCode/tree/master/0912-sort-an-array) |
 ## String
 |  |
@@ -88,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/anujj39861/LeetCode/tree/master/0075-sort-colors) |
 | [0189-rotate-array](https://github.com/anujj39861/LeetCode/tree/master/0189-rotate-array) |
 | [0344-reverse-string](https://github.com/anujj39861/LeetCode/tree/master/0344-reverse-string) |
+| [0881-boats-to-save-people](https://github.com/anujj39861/LeetCode/tree/master/0881-boats-to-save-people) |
 | [1768-merge-strings-alternately](https://github.com/anujj39861/LeetCode/tree/master/1768-merge-strings-alternately) |
 ## Divide and Conquer
 |  |
@@ -185,4 +188,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/anujj39861/LeetCode/tree/master/0128-longest-consecutive-sequence) |
+## Greedy
+|  |
+| ------- |
+| [0881-boats-to-save-people](https://github.com/anujj39861/LeetCode/tree/master/0881-boats-to-save-people) |
+## Timsort
+|  |
+| ------- |
+| [0881-boats-to-save-people](https://github.com/anujj39861/LeetCode/tree/master/0881-boats-to-save-people) |
 <!---LeetCode Topics End-->
