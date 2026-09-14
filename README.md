@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/anujj39861/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0424-longest-repeating-character-replacement](https://github.com/anujj39861/LeetCode/tree/master/0424-longest-repeating-character-replacement) |
 | [0560-subarray-sum-equals-k](https://github.com/anujj39861/LeetCode/tree/master/0560-subarray-sum-equals-k) |
+| [0567-permutation-in-string](https://github.com/anujj39861/LeetCode/tree/master/0567-permutation-in-string) |
 | [0705-design-hashset](https://github.com/anujj39861/LeetCode/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/anujj39861/LeetCode/tree/master/0706-design-hashmap) |
 ## Sorting
@@ -80,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/anujj39861/LeetCode/tree/master/0344-reverse-string) |
 | [0424-longest-repeating-character-replacement](https://github.com/anujj39861/LeetCode/tree/master/0424-longest-repeating-character-replacement) |
 | [0520-detect-capital](https://github.com/anujj39861/LeetCode/tree/master/0520-detect-capital) |
+| [0567-permutation-in-string](https://github.com/anujj39861/LeetCode/tree/master/0567-permutation-in-string) |
 | [0796-rotate-string](https://github.com/anujj39861/LeetCode/tree/master/0796-rotate-string) |
 | [1768-merge-strings-alternately](https://github.com/anujj39861/LeetCode/tree/master/1768-merge-strings-alternately) |
 ## Simulation
@@ -100,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/anujj39861/LeetCode/tree/master/0075-sort-colors) |
 | [0189-rotate-array](https://github.com/anujj39861/LeetCode/tree/master/0189-rotate-array) |
 | [0344-reverse-string](https://github.com/anujj39861/LeetCode/tree/master/0344-reverse-string) |
+| [0567-permutation-in-string](https://github.com/anujj39861/LeetCode/tree/master/0567-permutation-in-string) |
 | [0881-boats-to-save-people](https://github.com/anujj39861/LeetCode/tree/master/0881-boats-to-save-people) |
 | [1768-merge-strings-alternately](https://github.com/anujj39861/LeetCode/tree/master/1768-merge-strings-alternately) |
 ## Divide and Conquer
@@ -226,6 +229,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/anujj39861/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0219-contains-duplicate-ii](https://github.com/anujj39861/LeetCode/tree/master/0219-contains-duplicate-ii) |
 | [0424-longest-repeating-character-replacement](https://github.com/anujj39861/LeetCode/tree/master/0424-longest-repeating-character-replacement) |
+| [0567-permutation-in-string](https://github.com/anujj39861/LeetCode/tree/master/0567-permutation-in-string) |
 ## String Matching
 |  |
 | ------- |
