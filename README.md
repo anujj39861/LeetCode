@@ -87,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0520-detect-capital](https://github.com/anujj39861/LeetCode/tree/master/0520-detect-capital) |
 | [0567-permutation-in-string](https://github.com/anujj39861/LeetCode/tree/master/0567-permutation-in-string) |
 | [0796-rotate-string](https://github.com/anujj39861/LeetCode/tree/master/0796-rotate-string) |
+| [1021-remove-outermost-parentheses](https://github.com/anujj39861/LeetCode/tree/master/1021-remove-outermost-parentheses) |
 | [1768-merge-strings-alternately](https://github.com/anujj39861/LeetCode/tree/master/1768-merge-strings-alternately) |
 ## Simulation
 |  |
@@ -230,6 +231,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/anujj39861/LeetCode/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/anujj39861/LeetCode/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/anujj39861/LeetCode/tree/master/0042-trapping-rain-water) |
+| [1021-remove-outermost-parentheses](https://github.com/anujj39861/LeetCode/tree/master/1021-remove-outermost-parentheses) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -251,4 +253,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/anujj39861/LeetCode/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/anujj39861/LeetCode/tree/master/0032-longest-valid-parentheses) |
+| [1021-remove-outermost-parentheses](https://github.com/anujj39861/LeetCode/tree/master/1021-remove-outermost-parentheses) |
 <!---LeetCode Topics End-->
